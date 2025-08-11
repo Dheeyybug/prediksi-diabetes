@@ -7,8 +7,17 @@ Proyek ini bertujuan untuk mengklasifikasikan data menggunakan model ML dengan a
 - Precision kelas 0: 0.81
 - Precision kelas 1: 0.64
 
+## Tools & Library
+- Python 3.x
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+- Google Colab
+
 ## Cara Menjalankan
 1. Clone repository ini:
    git clone https://github.com/username/nama-repo.git
 2. Buka di Google Colab / Jupyter Notebook.
-3. Jalankan sel kode secara berurutan.
+3. Jalankan setiap cell dari atas ke bawah
+4. Pastikan semua library sudah ter-instal
